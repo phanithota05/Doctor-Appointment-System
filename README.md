@@ -9,7 +9,6 @@ The Online Doctor Appointment Booking System is a comprehensive web application 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Admin Login Details](#admin-login-details)
-- [Screenshots](#screenshots)
 - [Contact](#contact)
 
 ## Technologies Used
@@ -60,10 +59,6 @@ Once the installation is complete, you can start using the system. The admin pan
 
 - **Login ID:** 123
 - **Password:** 123
-
-## Screenshots
-
-(Include relevant screenshots here to showcase the functionality and user interface of your application.)
 
 ## Contact
 
