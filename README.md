@@ -37,7 +37,7 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**:
    - Open your terminal and run:
      ```bash
-     git clone https://github.com/yourusername/Doctor-Appointment-System.git
+     git clone https://github.com/phanithota05/Doctor-Appointment-System.git
      cd Doctor-Appointment-System
      ```
 
